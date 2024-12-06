@@ -1,0 +1,5 @@
+model_name_or_path: itpossible/JiuZhou-Instruct-v0.2
+adapter_name_or_path: saves/JiuZhou/lora/sft
+template: mistral
+finetuning_type: lora
+infer_backend: huggingface  # choices: [huggingface, vllm]

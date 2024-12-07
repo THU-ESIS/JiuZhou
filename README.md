@@ -11,7 +11,7 @@
 ## 🎉 News
 - [2024-10-11] WeChat article: [PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models](https://mp.weixin.qq.com/s/ugJQ9tbp6Y87xA3TOWteqw).
 - [2024-09-06] Released [ClimateChat](https://huggingface.co/itpossible/ClimateChat) instruct model.
-- [2024-08-31] **Article [PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models](https://www.tandfonline.com/doi/full/10.1080/20964471.2024.2396159) has been accepted for publication in the *Big Earth Data* journal**。
+- [2024-08-31] **Article [PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models](https://www.tandfonline.com/doi/full/10.1080/20964471.2024.2396159) has been accepted for publication in the *Big Earth Data* journal**.
 - [2024-08-31] Released [Chinese-Mistral-7B-Instruct-v0.2](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.2) instruct model. Significant improvements in language understanding and multi-turn dialogue capabilities.
 - [2024-06-30] Released [JiuZhou-Instruct-v0.2](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.2) instruct model. Significant improvements in language understanding and multi-turn dialogue capabilities.
 - [2024-05-15] WeChat Article: [Chinese Vocabulary Expansion Incremental Pretraining for Large Language Models: Chinese-Mistral Released](https://mp.weixin.qq.com/s/PMQmRCZMWosWMfgKRBjLlQ).

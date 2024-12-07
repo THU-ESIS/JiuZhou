@@ -135,7 +135,7 @@ Comparison of TSPT and one-stage pre-training algorithm performance:
 
 
 ## Model Training Code
-如下展示基于[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)开源框架微调JiuZhou。
+We use [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) to fine-tune JiuZhou.
 
 ### Project Deployment
 ```bash

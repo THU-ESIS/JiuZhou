@@ -9,6 +9,7 @@
 \[ English | [中文](README_zh.md) \]
 
 ## 🎉 News
+- [2024-12-31] **Article [JiuZhou: Open Foundation Language Models and Effective Pre-training Framework for Geoscience](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2449708) has been accepted for publication in the *International Journal fo Digital Earth***. [Code and Data](https://github.com/THU-ESIS/JiuZhou).
 - [2024-10-11] WeChat article: [PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models](https://mp.weixin.qq.com/s/ugJQ9tbp6Y87xA3TOWteqw).
 - [2024-09-06] Released [ClimateChat](https://huggingface.co/itpossible/ClimateChat) instruct model.
 - [2024-08-31] **Article [PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models](https://www.tandfonline.com/doi/full/10.1080/20964471.2024.2396159) has been accepted for publication in the *Big Earth Data* journal**.

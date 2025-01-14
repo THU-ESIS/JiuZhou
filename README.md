@@ -84,7 +84,7 @@ JiuZhou outperforms GPT-3.5 in objective tasks:
     <br>
 </p>
 
-JiuZhou also scores higher than ClimateChat across six criteria in subjective tasks:
+JiuZhou also scores higher than JiuZhou across six criteria in subjective tasks:
 <p align="center">
     <br>
     <img src="image/subjective_score.png" width="800"/>
@@ -93,7 +93,7 @@ JiuZhou also scores higher than ClimateChat across six criteria in subjective ta
 
 ### General Ability
 
-We evaluate the performance of Chinese-Mistral-7B using three benchmark datasets: C-Eval, CMMLU, and MMLU.<br>
+We evaluate the performance of JiuZhou using three benchmark datasets: C-Eval, CMMLU, and MMLU.<br>
 Compared to other variants of Llama and Mistral models, JiuZhou shows outstanding performance:
 <p align="center">
     <br>

@@ -82,7 +82,7 @@ JiuZhou在客观题任务上的得分超过了GPT-3.5：
     <br>
 </p>
 
-JiuZhou在主观题任务上的六个指标的得分超过了ClimateChat：
+JiuZhou在主观题任务上的六个指标的得分超过了基线模型：
 <p align="center">
     <br>
     <img src="image/subjective_score.png" width="800"/>
@@ -91,7 +91,7 @@ JiuZhou在主观题任务上的六个指标的得分超过了ClimateChat：
 
 ### 模型通用能力
 
-我们采用C-Eval、CMMLU和MMLU三个评测数据集评估Chinese-Mistral-7B的性能。<br>
+我们采用C-Eval、CMMLU和MMLU三个评测数据集评估JiuZhou的性能。<br>
 相较于其他Llama和Mistral模型的变体，JiuZhou具有突出表现：
 <p align="center">
     <br>

@@ -9,7 +9,7 @@
 \[ [English](README.md) | 中文 \]
 
 ## 🎉 新闻
-- [2024-12-31] **文章 [JiuZhou: Open Foundation Language Models and Effective Pre-training Framework for Geoscience](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2449708) 已被*International Journal fo Digital Earth*期刊接收. [Code and Data](https://github.com/THU-ESIS/JiuZhou).**
+- [2024-12-31] **文章 [JiuZhou: Open Foundation Language Models and Effective Pre-training Framework for Geoscience](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2449708) 已被*International Journal of Digital Earth*期刊接收. [Code and Data](https://github.com/THU-ESIS/JiuZhou).**
 - [2024-10-11] [新文速递|PreparedLLM：高效训练领域大语言模型的“前预训练”框架](https://mp.weixin.qq.com/s/ugJQ9tbp6Y87xA3TOWteqw)。
 - [2024-09-06] 发布[ClimateChat](https://huggingface.co/itpossible/ClimateChat)对话模型。
 - [2024-08-31] **文章[PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models](https://www.tandfonline.com/doi/full/10.1080/20964471.2024.2396159)已被*Big Earth Data*期刊接收**。

@@ -84,7 +84,7 @@ JiuZhou outperforms GPT-3.5 in objective tasks:
     <br>
 </p>
 
-JiuZhou also scores higher than JiuZhou across six criteria in subjective tasks:
+JiuZhou also scores higher than baselines across six criteria in subjective tasks:
 <p align="center">
     <br>
     <img src="image/subjective_score.png" width="800"/>

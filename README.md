@@ -17,8 +17,8 @@
 - [2024-06-30] Released [JiuZhou-Instruct-v0.2](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.2) instruct model. Significant improvements in language understanding and multi-turn dialogue capabilities.
 - [2024-05-15] WeChat Article: [Chinese Vocabulary Expansion Incremental Pretraining for Large Language Models: Chinese-Mistral Released](https://mp.weixin.qq.com/s/PMQmRCZMWosWMfgKRBjLlQ).
 - [2024-04-04] Released [Chinese-Mistral-7B-Instruct-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.1) instruct model.
-- [2024-03-31] Released [Chinese-Mistral-7B-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B) base model.
-- [2024-03-15] Released the base version [JiuZhou-base](https://huggingface.co/itpossible/JiuZhou-base), instruct version [JiuZhou-instruct-v0.1](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.1), and [intermediate checkpoints](https://huggingface.co/itpossible).
+- [2024-03-31] Released [Chinese-Mistral-7B-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B) base model. [Document](https://deepwiki.com/THU-ESIS/Chinese-Mistral).
+- [2024-03-15] Released the base version [JiuZhou-base](https://huggingface.co/itpossible/JiuZhou-base), instruct version [JiuZhou-instruct-v0.1](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.1), and [intermediate checkpoints](https://huggingface.co/itpossible). [Document](https://deepwiki.com/THU-ESIS/JiuZhou).
 
 
 ## Table of Contents

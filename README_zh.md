@@ -17,8 +17,8 @@
 - [2024-06-30] 发布[JiuZhou-Instruct-v0.2](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.2)对话模型。语言理解能力大幅提高，并且具备多轮对话能力。
 - [2024-05-15] 推文[中文扩词表增量预训练大语言模型Chinese-Mistral发布](https://mp.weixin.qq.com/s/PMQmRCZMWosWMfgKRBjLlQ)。
 - [2024-04-04] 发布[Chinese-Mistral-7B-Instruct-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.1)对话模型。
-- [2024-03-31] 发布[Chinese-Mistral-7B-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B)基座模型。
-- [2024-03-15] 发布JiuZhou的base版本[JiuZhou-base](https://huggingface.co/itpossible/JiuZhou-base)、instruct版本[JiuZhou-instruct-v0.1](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.1)，以及[中间检查点](https://huggingface.co/itpossible).
+- [2024-03-31] 发布[Chinese-Mistral-7B-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B)基座模型。[Document](https://deepwiki.com/THU-ESIS/Chinese-Mistral).
+- [2024-03-15] 发布JiuZhou的base版本[JiuZhou-base](https://huggingface.co/itpossible/JiuZhou-base)、instruct版本[JiuZhou-instruct-v0.1](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.1)，以及[中间检查点](https://huggingface.co/itpossible). [Document](https://deepwiki.com/THU-ESIS/JiuZhou).
 
 
 ## 目录

@@ -9,16 +9,19 @@
 \[ English | [中文](README_zh.md) \]
 
 ## 🎉 News
-- [2024-12-31] **Article [JiuZhou: Open Foundation Language Models and Effective Pre-training Framework for Geoscience](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2449708) has been accepted for publication in the *International Journal of Digital Earth***. [Code and Data](https://github.com/THU-ESIS/JiuZhou).
-- [2024-10-11] WeChat article: [PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models](https://mp.weixin.qq.com/s/ugJQ9tbp6Y87xA3TOWteqw).
-- [2024-09-06] Released [ClimateChat](https://huggingface.co/itpossible/ClimateChat) instruct model.
-- [2024-08-31] **Article [PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models](https://www.tandfonline.com/doi/full/10.1080/20964471.2024.2396159) has been accepted for publication in the *Big Earth Data* journal**.
-- [2024-08-31] Released [Chinese-Mistral-7B-Instruct-v0.2](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.2) instruct model. Significant improvements in language understanding and multi-turn dialogue capabilities.
-- [2024-06-30] Released [JiuZhou-Instruct-v0.2](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.2) instruct model. Significant improvements in language understanding and multi-turn dialogue capabilities.
-- [2024-05-15] WeChat Article: [Chinese Vocabulary Expansion Incremental Pretraining for Large Language Models: Chinese-Mistral Released](https://mp.weixin.qq.com/s/PMQmRCZMWosWMfgKRBjLlQ).
-- [2024-04-04] Released [Chinese-Mistral-7B-Instruct-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.1) instruct model.
-- [2024-03-31] Released [Chinese-Mistral-7B-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B) base model. [Document](https://deepwiki.com/THU-ESIS/Chinese-Mistral).
-- [2024-03-15] Released the base version [JiuZhou-base](https://huggingface.co/itpossible/JiuZhou-base), instruct version [JiuZhou-instruct-v0.1](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.1), and [intermediate checkpoints](https://huggingface.co/itpossible). [Document](https://deepwiki.com/THU-ESIS/JiuZhou).
+- **[2025-05]** Paper [*TagRouter: Learning Route to LLMs through Tags for Open-Domain Text Generation Tasks*](https://arxiv.org/abs/2506.12473) has been accepted by the top NLP conference *ACL*. [Model Download](https://huggingface.co/itpossible/TagGenerator).
+- **[2025-03]** Paper [*GeoFactory: an LLM Performance Enhancement Framework for Geoscience Factual and Inferential Tasks*](https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2506291) has been accepted by the journal *Big Earth Data*. [Data Download](https://huggingface.co/datasets/itpossible/WikiRAG).
+- **[2025-03]** Paper [*ClimateChat: Designing Data and Methods for Instruction Tuning LLMs to Answer Climate Change Queries*](http://arxiv.org/abs/2506.13796) has been accepted by the International Conference on Learning Representations (*ICLR*). [Model Download](https://huggingface.co/itpossible/ClimateChat).
+- **[2024-12]** Paper [*JiuZhou: Open Foundation Language Models and Effective Pre-training Framework for Geoscience*](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2449708) has been accepted by the *International Journal of Digital Earth*. [Model Introduction](https://deepwiki.com/THU-ESIS/JiuZhou). [Project Repository](https://github.com/THU-ESIS/JiuZhou).
+- **[2024-09]** Released chat model [ClimateChat](https://huggingface.co/itpossible/ClimateChat).
+- **[2024-08]** Paper [*PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models*](https://www.tandfonline.com/doi/full/10.1080/20964471.2024.2396159) has been accepted by the journal *Big Earth Data*. WeChat article: [PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models](https://mp.weixin.qq.com/s/ugJQ9tbp6Y87xA3TOWteqw). [Model Download](https://huggingface.co/itpossible/Prepared-Llama).
+- **[2024-08]** Released chat model [Chinese-Mistral-7B-Instruct-v0.2](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.2), featuring significantly improved language understanding and multi-turn conversation capabilities.
+- **[2024-06]** Released chat model [JiuZhou-Instruct-v0.2](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.2), with significantly enhanced language understanding and multi-turn conversation capabilities.
+- **[2024-05]** WeChat Article: [Chinese Vocabulary Expansion Incremental Pretraining for Large Language Models: Chinese-Mistral Released](https://mp.weixin.qq.com/s/PMQmRCZMWosWMfgKRBjLlQ).
+- **[2024-03]** Released base model [Chinese-Mistral-7B-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B) and chat model [Chinese-Mistral-7B-Instruct-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.1). [Model Introduction](https://deepwiki.com/THU-ESIS/Chinese-Mistral). [Project Repository](https://huggingface.co/itpossible/Chinese-Mistral).
+- **[2024-03]** Released JiuZhou's base version [JiuZhou-base](https://huggingface.co/itpossible/JiuZhou-base), instruct version [JiuZhou-instruct-v0.1](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.1), and [intermediate checkpoints](https://huggingface.co/itpossible). [Model Introduction](https://deepwiki.com/THU-ESIS/JiuZhou). [Project Repository](https://github.com/THU-ESIS/JiuZhou).
+- **[2024-01]** Completed training of Chinese-Mistral and JiuZhou, and commenced model evaluation.
+
 
 
 ## Table of Contents

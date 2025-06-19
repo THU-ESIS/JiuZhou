@@ -165,13 +165,50 @@ llamafactory-cli export examples/merge_lora/JiuZhou_lora_sft.yaml
 ## 引用
 ```bibtex
 @article{chen2024preparedllm,
-  author = {Chen, Zhou and Lin, Ming and Wang, Zimeng and Zang, Mingrun and Bai, Yuqi},
-  title = {PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models},
-  year = {2024},
-  journal = {Big Earth Data},
-  pages = {1--24},
-  doi = {10.1080/20964471.2024.2396159},
-  url = {https://doi.org/10.1080/20964471.2024.2396159}
+  title={PreparedLLM: Effective Pre-Pretraining Framework for Domain-Specific Large Language Models},
+  author={Chen, Zhou and Lin, Ming and Wang, Zimeng and Zang, Mingrun and Bai, Yuqi},
+  journal={Big Earth Data},
+  volume={8},
+  number={4},
+  pages={649--672},
+  year={2024},
+  doi={10.1080/20964471.2024.2396159}
+}
+
+@article{chen2025jiuzhou,
+  title={JiuZhou: Open Foundation Language Models and Effective Pre-Training Framework for Geoscience},
+  author={Chen, Zhou and Lin, Ming and Zang, Mingrun and Wang, Zimeng and Li, Juanzi and Bai, Yuqi},
+  journal={International Journal of Digital Earth},
+  volume={18},
+  number={1},
+  year={2025},
+  doi={10.1080/17538947.2025.2449708}
+}
+
+@article{chen2025geofactory,
+  title={GeoFactory: An LLM Performance Enhancement Framework for Geoscience Factual and Inferential Tasks},
+  author={Chen, Zhou and Wang, Xiao and Zhang, Xinan and Lin, Ming and Liao, Yuanhong and Li, Juanzi and Bai, Yuqi},
+  journal={Big Earth Data},
+  year={2025},
+  month={May},
+  pages={1--33},
+  doi={10.1080/20964471.2025.2506291}
+}
+
+@inproceedings{chen2025tagrouter,
+  title={TagRouter: Learning Route to LLMs through Tags for Open-Domain Text Generation Tasks},
+  author={Chen, Zhou and Wei, Zhiqiang and Bai, Yuqi and Xiong, Xue and Wu, Jianmin},
+  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)},
+  year={2025},
+  organization={Association for Computational Linguistics}
+}
+
+@inproceedings{chen2025climatechat,
+  title={ClimateChat: Designing Data and Methods for Instruction Tuning LLMs to Answer Climate Change Queries},
+  author={Chen, Zhou and Wang, Xiao and Liao, Yuanhong and Lin, Ming and Bai, Yuqi},
+  booktitle={Proceedings of the 2025 International Conference on Learning Representations (ICLR) Workshop},
+  year={2025},
+  organization={International Conference on Learning Representations}
 }
 ```
 
